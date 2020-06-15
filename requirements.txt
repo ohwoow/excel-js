@@ -1,0 +1,15 @@
+1. WebPack
+    Babel (поддержка старых браузеров)
+    SCSS
+    Eslint (чистота проекта)
+    -- Modes (режимы сборки проекта)
+         Dev (в нем будем вести разработку)
+          Dev Server(автоматическая перезагрузка браузера),
+          SourceMaps(исходные карты, добавляются для SCSS файлов),
+          Eslint,
+          Not Minified JS and CSS
+        Prod (продакшн, готовый проект)
+          Minified Code
+
+
+2. Git
